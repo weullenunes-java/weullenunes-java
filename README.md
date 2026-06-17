@@ -1,4 +1,5 @@
 # Olá, me chamo Weulle, vamos codar!
+<img src="weulleanimed.gif" height="180em" align="right">
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=weullenunes-java&show_icons=true&theme=tokyonight" height="180em">
@@ -24,5 +25,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<img src="">
